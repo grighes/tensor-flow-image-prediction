@@ -1,0 +1,6 @@
+{
+  "name": "tensorflowjs",
+  "dependencies": {
+    "express": "latest"
+  }
+}
